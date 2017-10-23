@@ -1,0 +1,10 @@
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\bin\Debug\TaskAsync1.exe.config
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\bin\Debug\TaskAsync1.exe
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\bin\Debug\TaskAsync1.pdb
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\obj\Debug\TaskAsync1.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\obj\Debug\TaskAsync1.Form1.resources
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\obj\Debug\TaskAsync1.Properties.Resources.resources
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\obj\Debug\TaskAsync1.csproj.GenerateResource.Cache
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\obj\Debug\TaskAsync1.csproj.CoreCompileInputs.cache
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\obj\Debug\TaskAsync1.exe
+C:\Users\Alizada\source\repos\Tasks\TaskAsync1\obj\Debug\TaskAsync1.pdb

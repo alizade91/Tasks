@@ -1,0 +1,7 @@
+c:\users\alizada\source\repos\Tasks\TaskMultithreading7\bin\Debug\TaskMultithreading7.exe.config
+c:\users\alizada\source\repos\Tasks\TaskMultithreading7\bin\Debug\TaskMultithreading7.exe
+c:\users\alizada\source\repos\Tasks\TaskMultithreading7\bin\Debug\TaskMultithreading7.pdb
+c:\users\alizada\source\repos\Tasks\TaskMultithreading7\obj\Debug\TaskMultithreading7.csprojResolveAssemblyReference.cache
+c:\users\alizada\source\repos\Tasks\TaskMultithreading7\obj\Debug\TaskMultithreading7.csproj.CoreCompileInputs.cache
+c:\users\alizada\source\repos\Tasks\TaskMultithreading7\obj\Debug\TaskMultithreading7.exe
+c:\users\alizada\source\repos\Tasks\TaskMultithreading7\obj\Debug\TaskMultithreading7.pdb

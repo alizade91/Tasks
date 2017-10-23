@@ -1,0 +1,7 @@
+C:\Users\Alizada\source\repos\Tasks\TaskMultithreading5\bin\Debug\TaskMultithreading5.exe.config
+C:\Users\Alizada\source\repos\Tasks\TaskMultithreading5\bin\Debug\TaskMultithreading5.exe
+C:\Users\Alizada\source\repos\Tasks\TaskMultithreading5\bin\Debug\TaskMultithreading5.pdb
+C:\Users\Alizada\source\repos\Tasks\TaskMultithreading5\obj\Debug\TaskMultithreading5.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\source\repos\Tasks\TaskMultithreading5\obj\Debug\TaskMultithreading5.csproj.CoreCompileInputs.cache
+C:\Users\Alizada\source\repos\Tasks\TaskMultithreading5\obj\Debug\TaskMultithreading5.exe
+C:\Users\Alizada\source\repos\Tasks\TaskMultithreading5\obj\Debug\TaskMultithreading5.pdb
